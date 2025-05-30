@@ -39,7 +39,7 @@ git clone https://github.com/Sara-source01/Avatar-Projeto.git
 ## 💻 Pré-visualização
 
 > Acesse a demo online:
-[🔗 Ver Demonstração]()
+[🔗 Ver Demonstração](https://sara-source01.github.io/Avatar-Projeto/)
 
 
 ## 👩‍💻 Autor
