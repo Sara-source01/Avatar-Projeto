@@ -60,7 +60,7 @@ quando coloca o ponteiro do mouse nele */
 .container:hover {
     background-image: linear-gradient(to right, #01022de5 30%, transparent),
 
-        url(imagens/avatar2.webp);
+        url(Imagens/AVATAR.webp);
 }
 
 /* header contém <a class="logo">avatar</a>
